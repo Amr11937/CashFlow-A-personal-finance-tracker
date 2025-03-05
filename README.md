@@ -1,1 +1,2 @@
 # CashFlow-A-personal-finance-tracker
+This repo features a personal finance tracker built using HTML, CSS, and JavaScript 🎨. "CashFlow" allows users to manage their expenses, set budgets, and track financial goals, all with a sleek and responsive interface. Perfect for learning front-end development while building a practical application! 📊They can also edit or delete their expenses displayed  by fulfilling CRUD operations requirement of the project.
